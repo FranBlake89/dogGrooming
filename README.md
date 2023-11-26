@@ -28,4 +28,4 @@ The system provides users with the capability to input new records, storing them
 
 The outcome is a desktop application that empowers users with CRUD functionalities, facilitating the management of pet and owner records.
 
-![Application Screenshots 1](link-to-your-photos)
+![Screenshot 1](https://github.com/FranBlake89/dogGrooming/assets/73005797/edd792b2-1257-4baf-a34b-80edbed54f30) | ![Screenshot 2](https://github.com/FranBlake89/dogGrooming/assets/73005797/bb006fb5-9974-41e8-bb64-e84b2a7f4d6a) | ![Screenshot 3](https://github.com/FranBlake89/dogGrooming/assets/73005797/e095bf6c-83d5-418e-a696-1a95ba68c6d0) | ![Screenshot 4](https://github.com/FranBlake89/dogGrooming/assets/73005797/abb87f58-02fb-4c77-828c-5e989d6aad80)
