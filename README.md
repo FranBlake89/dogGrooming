@@ -17,12 +17,12 @@ The system provides users with the capability to input new records, storing them
 
 ## To Do:
 
-- Add a list of dog breeds to enable user searches.
-- Create a form to add owners.
-- Modify the relationship from One-to-One to Many-to-Many.
-- Implement a list of owners, allowing creation if not already present.
-- Develop a function to search owners within a combo box.
-- Integrate user permission functionality.
+- [ ] Add a list of dog breeds to enable user searches.
+- [ ] Create a form to add owners.
+- [ ] Modify the relationship from One-to-One to Many-to-Many.
+- [ ] Implement a list of owners, allowing creation if not already present.
+- [ ] Develop a function to search owners within a combo box.
+- [ ] Integrate user permission functionality.
 
 **Results:**
 
