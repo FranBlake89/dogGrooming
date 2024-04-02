@@ -6,7 +6,7 @@ This desktop application simplifies the pet registration process, providing a co
 
 **Technical Implementation:**
 
-The application is developed using Java, Swing, and MySQL on the Windows platform. The core structure involves two classes, 'Pet' and 'Owner,' maintaining a One-to-One relationship. Future plans include transitioning to Many-to-Many for enhanced scalability.
+The application is developed using Java, Swing, and MySQL on the Windows platform. The core structure involves two classes, 'Pet' and 'Owner,' maintaining a One-to-One relationship. Future plans include transitioning to One-to-Many for enhanced scalability.
 
 The system provides users with the capability to input new records, storing them in a MySQL database. Additionally, users can view, modify, and delete records, adhering to the CRUD (Create, Read, Update, Delete) operations. An exit button is incorporated, displaying a message to the user before termination.
 
@@ -19,7 +19,7 @@ The system provides users with the capability to input new records, storing them
 
 - [ ] Add a list of dog breeds to enable user searches.
 - [ ] Create a form to add owners.
-- [ ] Modify the relationship from One-to-One to Many-to-Many.
+- [ ] Modify the relationship from One-to-One to One-to-Many.
 - [ ] Implement a list of owners, allowing creation if not already present.
 - [ ] Develop a function to search owners within a combo box.
 - [ ] Integrate user permission functionality.
